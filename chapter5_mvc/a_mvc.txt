@@ -1,0 +1,6 @@
+MVC - Model View Controller
+C - Controller handles only the REQUESTS flow and it will not handle the logic/data fetching
+M - It handles logics and fetch data from DB
+V - presentation layer, It renders dynamically
+
+NOTE : CONTROLLER - is the main, whereas, MODEL and VIEW will never interact directly

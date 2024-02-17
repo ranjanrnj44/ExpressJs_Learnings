@@ -1,0 +1,11 @@
+Routing
+
+1. Routing and it's use?
+>> Routing is used to handle the sub directory of our app files. (i.e., In VIEWS we might have some files and also some 
+other dirs, to handle the files in dirs we will be using this ROUTES concept)
+>> Basically, we will handle the sub dir files as our mini apps
+
+2. Apply styles to sub directories as well?
+// Built-in Middleware - to serve the necessary CSS, images and other required files at prior stage
+app.use(express.static(path.join(__dirname, './public'))); //by default it applies to ROOT directory, to point to different dir (i.e., subdir -> mention path like below line)
+app.use('./subdir', express.static(path.join(__dirname, './public')));

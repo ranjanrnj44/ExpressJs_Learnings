@@ -1,0 +1,19 @@
+1. Express and it's use
+>> Express is the framework used for handling route parts
+>> Before expressJs we were using plain NodeJs with http module usage that is with more boiler plate
+but the Express Js is more flexible and easy to set-up things
+
+2. ExpressJs (handle the ROUTE with options)
+>> "^/$|index.html"  --- This means it can be "/" or "/index.html"
+>> What if user types like "https://www.example.com/index" alone? -- to handle this we can use something 
+like "^/$|index(.html)?"
+
+3. Redirect to different page?
+>> This can be done with [response.redirect] but we need to use the status code along with it, just like
+response.redirect(301, 'fileName.html');
+
+4. Error Page - It should always be sent with status code, check below example
+To handle error page, always use RESPONSE.STATUS(404)
+>> response.status(404).sendFile(path.join(__dirname, 'views', 'error-page.html'));
+
+5, next() -> This is to handle next function, it's a middleware

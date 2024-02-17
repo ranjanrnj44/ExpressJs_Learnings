@@ -1,0 +1,33 @@
+Middlewares in Express JS
+
+1. Middleware? - The thing happening between request and response is called as middleware. It has 3 types like,
+built-in, custom and 3rd party middleware
+
+NOTE: 
+>> Express is soo smart to handle routes
+>> Using Middleware? - 
+--> It will be consuming with the k/word -> (use) -> app.use
+--> Always use/declare the middleware just below the const at top level, the middleware is used to
+get the data from the form submission, or to get JSON data and etc...
+--> to get from submission data -> app.use(express.urlencoded({extended: false}));
+--> to get JSON data -> app.use(express.JSON());
+
+NOTE: Middleware Types:
+>> Built-in middleware? - it is used to serve some static files at prior stage, giving CSS files, images, etc...
+We can give access to other files even before we redirect to URL, so on going to the corresponding URL we will have
+the actual image load and styles applied
+--> On specifying the path to serve static files -> actually this will give access to all it's sub-folders as well
+
+>> Custom middleware? - to log a files, (log all the things happening in server so that if something went wrong it will be very useful).
+It's syntax is next() (i.e., app.use(req, res, next)) => {console.log(`${req.method} ${req.path}`)};
+
+>> 3rdParty middleware? -  This is to give get some extra capabilities from already available code (i.e., CORS) 
+--> CORS - Cross Origin Resource Sharing : It is used to give permission to only mentioned dites and not OPEN to all other URL's. Always
+be cautious on CORS, it's important to handle in safe way
+
+2. Handling error - logs?
+>> Here we can handle logs bu creating a middleware so that is any case we some different error it will get logged
+
+3. Showing error page for all METHODS?
+>> Normally app.get('/*) -> this applies only for the GET METHOD, but in order to show our customized error page for all types
+of methods then we should always use app.all('*', (req, res) => ...OUR LOGIC...)

@@ -1,0 +1,96 @@
+14022024	08:06:46 8d376ae2-6aea-454e-9924-7e83ec6644e5 GET -- / -- undefined 
+ 
+14022024	08:06:46 7eff6c2f-b27b-44d0-9ec2-1d1a2d8eadd3 GET -- /css/styles.css -- undefined 
+ 
+14022024	08:06:46 9c02f6cb-7f54-4625-802d-c94dac918f87 GET -- /image/PEACOCK_Feather.jpeg -- undefined 
+ 
+14022024	08:06:47 335d5f77-e0f5-4227-acea-bf16513bcebd GET -- /about -- undefined 
+ 
+14022024	08:06:50 01ad42f7-5f01-496a-831f-6537b91ff222 GET -- /contact -- undefined 
+ 
+15022024	06:42:56 64892c23-5919-4d9f-8ce4-3d27a85a47c8 GET -- / -- undefined 
+ 
+15022024	06:42:56 717700bf-e1f6-463d-8b3a-d0b3a2428ee2 GET -- /css/styles.css -- undefined 
+ 
+15022024	06:42:56 7050c641-7f15-4617-ac0d-5ae4149395a0 GET -- /image/PEACOCK_Feather.jpeg -- undefined 
+ 
+15022024	06:42:57 d7482e54-47d4-4d56-bd3c-d2e411c7d06f GET -- /favicon.ico -- undefined 
+ 
+15022024	06:43:21 ad11106e-0f77-4b46-a4bc-d66f09f48701 GET -- /contact -- undefined 
+ 
+15022024	06:44:34 b17d3bbc-4aed-42e6-bf44-d254d1f54339 GET -- /contactkil -- undefined 
+ 
+15022024	06:46:33 dc4f2e35-c1d3-4d24-9936-25e978a20af2 GET -- /contact -- undefined 
+ 
+15022024	06:46:34 eadde0c2-acfb-47fe-af97-9c7443eaaccd GET -- /cont -- undefined 
+ 
+15022024	06:46:59 d14a6d9a-8c61-41eb-911b-d1c16831614e GET -- /cont -- undefined 
+ 
+15022024	06:48:28 a013f1be-0ff9-472c-bfe5-725cfb6354b1 GET -- / -- undefined 
+ 
+15022024	06:48:28 80e826ed-be9b-4e0c-8980-0991339c915a GET -- /css/styles.css -- undefined 
+ 
+15022024	06:48:28 55a74c12-33b1-4d48-9518-cb579101ab2e GET -- /image/PEACOCK_Feather.jpeg -- undefined 
+ 
+15022024	06:48:31 25cb56c9-aa67-4d6b-aa58-cade5810b286 GET -- /contact -- undefined 
+ 
+15022024	06:50:16 6012f39a-3643-414d-8ef9-8b5cb92ce9d1 GET -- /contact -- undefined 
+ 
+15022024	06:50:16 01968d3c-0f5f-4041-b4f5-6ee8c74a6cd7 GET -- /css/styles.css -- undefined 
+ 
+15022024	06:50:26 b7ea36c9-96ea-44da-8561-1b49220d593f GET -- /contactl -- undefined 
+ 
+15022024	06:50:27 de2b67c2-4f5b-4dc1-a465-de42e0b154b6 GET -- /css/styles.css -- undefined 
+ 
+17022024	06:49:31 0dcaddc5-320e-440f-9fdf-e833374151f9 GET -- /contact -- undefined 
+ 
+17022024	06:49:34 bbed6223-3611-414e-8b7d-3790ebd44e4c GET -- / -- undefined 
+ 
+17022024	06:49:37 dac1174a-0b1e-46ef-afd4-0723be523ba6 GET -- / -- undefined 
+ 
+17022024	09:00:08 a817fafd-6869-4c08-8231-d02575ba605f GET -- / -- undefined 
+ 
+17022024	09:01:13 8b76e8a5-5267-4360-9a29-d9b98c527566 GET -- /subdir/test -- undefined 
+ 
+17022024	09:01:13 cbab9339-b00a-49d2-89cf-1be237fc342c GET -- /subdir/css/styles.css -- undefined 
+ 
+17022024	09:01:15 f4255b79-bada-4de5-a683-b38a4ce42011 GET -- /subdir/ -- undefined 
+ 
+17022024	09:01:15 8273388f-1274-48d6-974f-d8ace965907a GET -- /subdir/css/styles.css -- undefined 
+ 
+17022024	09:01:34 55de194d-8363-40d9-bda0-5b59fdd05f1c GET -- /subdir/ -- undefined 
+ 
+17022024	09:01:34 e0997764-eee3-44d1-b6ed-174c3f59aa6b GET -- /subdir/css/styles.css -- undefined 
+ 
+17022024	09:02:36 0aff3753-0e00-405c-8d3a-932204c27aef GET -- / -- undefined 
+ 
+17022024	09:02:36 9546be06-8c61-4b40-a850-88e96244c144 GET -- /css/styles.css -- undefined 
+ 
+17022024	09:02:36 97df72f2-7fd0-4fe0-b2f2-c88d95d0d8d6 GET -- /image/PEACOCK_Feather.jpeg -- undefined 
+ 
+17022024	09:02:39 f6db0be4-b264-4bc0-8acc-05e77436e5b9 GET -- /contact -- undefined 
+ 
+17022024	09:02:39 00c9fb0a-664d-43e7-a55d-2bf10342c22a GET -- /css/styles.css -- undefined 
+ 
+17022024	09:02:40 39f062c2-793f-4d19-8ff6-6cee2a1488f7 GET -- /contat -- undefined 
+ 
+17022024	09:02:40 d700d7c9-526e-48b6-a204-51a300b027a9 GET -- /css/styles.css -- undefined 
+ 
+17022024	09:02:44 fa87b425-c61a-41c1-9048-de072da00014 GET -- /contact -- undefined 
+ 
+17022024	09:02:44 60b71b9e-6061-419a-ace7-23926c2f984a GET -- /css/styles.css -- undefined 
+ 
+17022024	09:02:47 e0570c9f-61aa-4c57-a0f3-a603ad9d1e41 GET -- /about -- undefined 
+ 
+17022024	09:02:47 8ba7d5f4-a9e3-44ba-a821-52cfcdf2261d GET -- /css/styles.css -- undefined 
+ 
+17022024	09:02:54 f5a28519-0368-4451-9e33-7e4195f1d26f GET -- /old-pages.html -- undefined 
+ 
+17022024	09:02:54 5e5129da-294e-4c41-bc58-9706db5e4a7a GET -- /css/styles.css -- undefined 
+ 
+17022024	09:02:59 76563c8c-8bb7-4195-843d-91608ba1eca0 GET -- /old-page.html -- undefined 
+ 
+17022024	09:02:59 2afaa963-a0f6-4b32-ba74-b2b845c4960d GET -- /css/styles.css -- undefined 
+ 
+17022024	09:03:05 3ed0a419-c007-4e89-a142-8b2a94f55ef2 GET -- /hello -- undefined 
+ 

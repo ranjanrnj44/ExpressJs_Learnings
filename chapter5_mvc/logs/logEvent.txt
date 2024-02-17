@@ -1,0 +1,382 @@
+14022024	08:06:46 8d376ae2-6aea-454e-9924-7e83ec6644e5 GET -- / -- undefined 
+ 
+14022024	08:06:46 7eff6c2f-b27b-44d0-9ec2-1d1a2d8eadd3 GET -- /css/styles.css -- undefined 
+ 
+14022024	08:06:46 9c02f6cb-7f54-4625-802d-c94dac918f87 GET -- /image/PEACOCK_Feather.jpeg -- undefined 
+ 
+14022024	08:06:47 335d5f77-e0f5-4227-acea-bf16513bcebd GET -- /about -- undefined 
+ 
+14022024	08:06:50 01ad42f7-5f01-496a-831f-6537b91ff222 GET -- /contact -- undefined 
+ 
+15022024	06:42:56 64892c23-5919-4d9f-8ce4-3d27a85a47c8 GET -- / -- undefined 
+ 
+15022024	06:42:56 717700bf-e1f6-463d-8b3a-d0b3a2428ee2 GET -- /css/styles.css -- undefined 
+ 
+15022024	06:42:56 7050c641-7f15-4617-ac0d-5ae4149395a0 GET -- /image/PEACOCK_Feather.jpeg -- undefined 
+ 
+15022024	06:42:57 d7482e54-47d4-4d56-bd3c-d2e411c7d06f GET -- /favicon.ico -- undefined 
+ 
+15022024	06:43:21 ad11106e-0f77-4b46-a4bc-d66f09f48701 GET -- /contact -- undefined 
+ 
+15022024	06:44:34 b17d3bbc-4aed-42e6-bf44-d254d1f54339 GET -- /contactkil -- undefined 
+ 
+15022024	06:46:33 dc4f2e35-c1d3-4d24-9936-25e978a20af2 GET -- /contact -- undefined 
+ 
+15022024	06:46:34 eadde0c2-acfb-47fe-af97-9c7443eaaccd GET -- /cont -- undefined 
+ 
+15022024	06:46:59 d14a6d9a-8c61-41eb-911b-d1c16831614e GET -- /cont -- undefined 
+ 
+15022024	06:48:28 a013f1be-0ff9-472c-bfe5-725cfb6354b1 GET -- / -- undefined 
+ 
+15022024	06:48:28 80e826ed-be9b-4e0c-8980-0991339c915a GET -- /css/styles.css -- undefined 
+ 
+15022024	06:48:28 55a74c12-33b1-4d48-9518-cb579101ab2e GET -- /image/PEACOCK_Feather.jpeg -- undefined 
+ 
+15022024	06:48:31 25cb56c9-aa67-4d6b-aa58-cade5810b286 GET -- /contact -- undefined 
+ 
+15022024	06:50:16 6012f39a-3643-414d-8ef9-8b5cb92ce9d1 GET -- /contact -- undefined 
+ 
+15022024	06:50:16 01968d3c-0f5f-4041-b4f5-6ee8c74a6cd7 GET -- /css/styles.css -- undefined 
+ 
+15022024	06:50:26 b7ea36c9-96ea-44da-8561-1b49220d593f GET -- /contactl -- undefined 
+ 
+15022024	06:50:27 de2b67c2-4f5b-4dc1-a465-de42e0b154b6 GET -- /css/styles.css -- undefined 
+ 
+17022024	06:37:08 1f800cbc-b2d9-450c-aef8-49f7d5ac6725 GET -- / -- undefined 
+ 
+17022024	06:37:36 caf23633-9dea-4960-9c17-a51061161cb5 GET -- /home -- undefined 
+ 
+17022024	06:37:36 f602910e-d2b2-4513-8009-4c2e05ae3700 GET -- /home -- undefined 
+ 
+17022024	06:37:38 36cf9b2f-43e7-409d-80cc-6635ab1316e7 GET -- / -- undefined 
+ 
+17022024	06:37:40 b4eddc08-918a-4f33-a4b3-4787b61de554 GET -- /contact -- undefined 
+ 
+17022024	06:37:41 a778a38e-2ec2-45db-bd72-c2cdf81da6da GET -- /contact -- undefined 
+ 
+17022024	06:40:26 2fc7380e-ba19-4365-a80d-4b7d84226694 GET -- /contact -- undefined 
+ 
+17022024	06:41:16 fa9d8e8e-7269-4f1a-bf5a-aa3287811929 GET -- / -- undefined 
+ 
+17022024	06:43:18 9d1f47f0-4e13-4096-9c9b-db81baa3b057 GET -- / -- undefined 
+ 
+17022024	06:46:34 793a445f-341e-43e5-98fe-0f463ae34a45 GET -- / -- undefined 
+ 
+17022024	06:46:54 af5906dd-d885-4564-88a1-431ffabfc101 GET -- / -- undefined 
+ 
+17022024	06:46:54 88252c72-4f0e-431d-8d05-d84f7993ce41 Error: ENOENT: no such file or directory, stat '/Users/ranjan.mylsamy/Desktop/Accenture/Coding/D_Nodejs/c_express_yt/chapter4_routingAPI/routes/index.html', 'logEvent.txt'  
+17022024	06:46:54 6f466287-8df7-48c2-99eb-4e3fa4e63eca GET -- /favicon.ico -- undefined 
+ 
+17022024	06:47:03 da0c3ee8-1509-4357-877f-c58da0a74bdc GET -- / -- undefined 
+ 
+17022024	06:47:03 c18230b4-5158-4dcd-8990-7499e4834b8c Error: ENOENT: no such file or directory, stat '/Users/ranjan.mylsamy/Desktop/Accenture/Coding/D_Nodejs/c_express_yt/chapter4_routingAPI/routes/index.html', 'logEvent.txt'  
+17022024	06:47:05 bfde31aa-d465-4076-bce9-e551ca792747 GET -- /contact -- undefined 
+ 
+17022024	06:47:05 9bbd4c81-7bd5-4d53-aa2f-5893dfd09367 Error: ENOENT: no such file or directory, stat '/Users/ranjan.mylsamy/Desktop/Accenture/Coding/D_Nodejs/c_express_yt/chapter4_routingAPI/routes/views/contact.html', 'logEvent.txt'  
+17022024	06:48:23 1d911ebb-1786-43b4-897d-b8e2d635bc8b GET -- /contact -- undefined 
+ 
+17022024	06:48:23 34d58dbd-5808-47e2-bf53-7dd8d56a4df1 Error: ENOENT: no such file or directory, stat '/Users/ranjan.mylsamy/Desktop/Accenture/Coding/D_Nodejs/c_express_yt/chapter4_routingAPI/routes/views/contact.html', 'logEvent.txt'  
+17022024	08:40:17 abf739df-7657-41d4-961a-c6b02b21b1e2 GET -- / -- undefined 
+ 
+17022024	08:40:17 716b0b69-2e15-4f7e-8d29-8e5f894762f7 Error: ENOENT: no such file or directory, stat '/Users/ranjan.mylsamy/Desktop/Accenture/Coding/D_Nodejs/c_express_yt/chapter4_routingAPI/routes/index.html', 'logEvent.txt'  
+17022024	08:41:10 2801c7bf-b995-40cc-8c89-fabdec3e084a GET -- / -- undefined 
+ 
+17022024	08:41:10 add82fc5-3f08-43c8-bbe6-79e495b8dd53 Error: ENOENT: no such file or directory, stat '/Users/ranjan.mylsamy/Desktop/Accenture/Coding/D_Nodejs/c_express_yt/chapter4_routingAPI/routes/index.html', 'logEvent.txt'  
+17022024	08:44:53 dfc2725e-8fe4-4e95-b1d0-8f5cefaede7e GET -- /contact -- undefined 
+ 
+17022024	08:44:53 451f866e-49e3-42da-8179-97d0fd3644e9 Error: ENOENT: no such file or directory, stat '/Users/ranjan.mylsamy/Desktop/Accenture/Coding/D_Nodejs/c_express_yt/chapter4_routingAPI/routes/views/contact.html', 'logEvent.txt'  
+17022024	08:44:54 e7a7acc6-e3e2-4017-bf17-5cf88b99e9a4 GET -- /contact -- undefined 
+ 
+17022024	08:44:54 e12fe3c5-c7a6-43c5-9d00-1f506efe32bf Error: ENOENT: no such file or directory, stat '/Users/ranjan.mylsamy/Desktop/Accenture/Coding/D_Nodejs/c_express_yt/chapter4_routingAPI/routes/views/contact.html', 'logEvent.txt'  
+17022024	08:46:27 684e1cbf-96bd-40b8-b370-8795ae05ddb1 GET -- / -- undefined 
+ 
+17022024	08:46:27 4a59aeb0-3e5b-4529-973e-aaae4f7fbbd1 Error: ENOENT: no such file or directory, stat '/Users/ranjan.mylsamy/Desktop/Accenture/Coding/D_Nodejs/c_express_yt/chapter4_routingAPI/routes/index.html', 'logEvent.txt'  
+17022024	08:47:05 b31c3bdd-df3d-494d-bd1e-155ea6da1c90 GET -- /about -- undefined 
+ 
+17022024	08:47:05 7863a33d-ef07-4c60-b457-d9479c45420c Error: ENOENT: no such file or directory, stat '/Users/ranjan.mylsamy/Desktop/Accenture/Coding/D_Nodejs/c_express_yt/chapter4_routingAPI/routes/views/about.html', 'logEvent.txt'  
+17022024	08:47:07 46bd5cc7-7f13-4b5a-bbf2-0ca3f7ca30fb GET -- /about -- undefined 
+ 
+17022024	08:47:07 4c140ed9-f5f2-4546-857a-34363655aafe Error: ENOENT: no such file or directory, stat '/Users/ranjan.mylsamy/Desktop/Accenture/Coding/D_Nodejs/c_express_yt/chapter4_routingAPI/routes/views/about.html', 'logEvent.txt'  
+17022024	08:47:21 f0ae5aaa-3413-4c90-a38d-d0271021b5c3 GET -- /about -- undefined 
+ 
+17022024	08:47:21 25e3ee0c-9f86-4a88-8d75-725e1515d996 Error: ENOENT: no such file or directory, stat '/Users/ranjan.mylsamy/Desktop/Accenture/Coding/D_Nodejs/c_express_yt/chapter4_routingAPI/routes/views/about.html', 'logEvent.txt'  
+17022024	08:47:53 5dd2308c-6280-4ffa-a508-d41f13f06a68 GET -- /about -- undefined 
+ 
+17022024	08:48:31 adf54aa5-0414-4e12-9988-8c2082f34c1f GET -- /subdir/ -- undefined 
+ 
+17022024	08:48:31 50a9a39b-08b2-42e7-8b6b-c289f1da35df GET -- /subdir/css/styles.css -- undefined 
+ 
+17022024	08:48:47 54cd3b8b-82ff-4156-923c-1e2db29b21f4 GET -- /subdir/test -- undefined 
+ 
+17022024	08:48:47 bfa2729c-31c9-4339-ba72-41712f7ae6ea GET -- /subdir/css/styles.css -- undefined 
+ 
+17022024	08:49:02 f6d776cb-d6d4-4b37-845f-f04759059b13 GET -- /root/ -- undefined 
+ 
+17022024	08:49:03 266cfbe0-e789-4676-a638-71925914c0d4 GET -- /root/css/styles.css -- undefined 
+ 
+17022024	08:49:06 6f5a5563-ccc1-4979-a271-cce90c6cb4b9 GET -- /root/index -- undefined 
+ 
+17022024	08:49:06 959e08a2-b858-4547-ac9d-e7b1cca58213 GET -- /root/css/styles.css -- undefined 
+ 
+17022024	08:49:26 4df69953-b78b-4e89-a5d4-0d595e71cd71 GET -- / -- undefined 
+ 
+17022024	08:49:29 328bada6-95dd-4253-ad22-a740aefe5c2b GET -- /index -- undefined 
+ 
+17022024	08:49:29 8b45e5a6-ba53-492d-848b-a3b867300374 GET -- /css/styles.css -- undefined 
+ 
+17022024	08:49:41 f46e2d48-9d5f-45e1-aaaf-208c24ea6258 GET -- /about -- undefined 
+ 
+17022024	08:49:43 91429482-564a-481c-8277-10775cdfe6ad GET -- /about -- undefined 
+ 
+17022024	08:49:54 a5d94398-c3f1-49c4-a878-f7823a6e65e8 GET -- /old-page.html -- undefined 
+ 
+17022024	08:49:54 a8d9b8c6-e9d3-4a62-897f-2bbbe4a67294 GET -- /old-page.html -- undefined 
+ 
+17022024	08:50:03 0473a7aa-e6cb-4bce-9fb7-745ac457b026 GET -- /root/new-page -- undefined 
+ 
+17022024	08:50:03 445c5764-68f8-4d9e-8580-ceabee885e2e GET -- /root/css/styles.css -- undefined 
+ 
+17022024	08:51:28 b05d0c2c-c451-4bbe-a824-a0e08c9e66fc GET -- /old-page.html -- undefined 
+ 
+17022024	08:51:28 5821e79e-022e-45b6-95fd-740555aa6289 GET -- /old-page.html -- undefined 
+ 
+17022024	08:51:31 65faee44-7904-447d-8fb6-3780bd264818 GET -- /index -- undefined 
+ 
+17022024	08:51:31 60d6a248-326a-4f2e-8d5c-413380ef78fb GET -- /css/styles.css -- undefined 
+ 
+17022024	08:52:59 5ef105ed-29d3-4a63-96ca-7f48309e7d50 GET -- /index -- undefined 
+ 
+17022024	08:52:59 3106e86e-47ae-4ecf-a353-bb26c94156c4 GET -- /css/styles.css -- undefined 
+ 
+17022024	08:53:03 47d3a4c8-e23a-4433-a5af-92a8858dfab8 GET -- / -- undefined 
+ 
+17022024	08:53:10 dd53c34c-4388-4a2b-9665-d52873927f84 GET -- /subdir/ -- undefined 
+ 
+17022024	08:53:10 390ae8cd-3417-4752-8981-af8e4d0e4034 GET -- /subdir/css/styles.css -- undefined 
+ 
+17022024	08:53:14 feeae959-2535-4f15-b0dc-9c03a17c054a GET -- /subdir/test -- undefined 
+ 
+17022024	08:53:14 5ec57c98-ade0-485a-8443-85dd112b754d GET -- /subdir/css/styles.css -- undefined 
+ 
+17022024	08:53:16 23c337be-d9f5-4ff4-a85e-3f23e0fa1cad GET -- /subdir -- undefined 
+ 
+17022024	08:53:16 4672b7c8-c895-4450-9a1a-5105ca39403e GET -- /css/styles.css -- undefined 
+ 
+17022024	08:53:31 aa6feb94-662c-4690-b32d-e535a69f9055 GET -- /subdir/ -- undefined 
+ 
+17022024	08:53:31 4fd115c4-0b19-4063-8b34-bc823a5817f9 GET -- /subdir/css/styles.css -- undefined 
+ 
+17022024	08:53:36 b68cc374-759f-4536-8003-8933a1009e7f GET -- /subdir/ -- undefined 
+ 
+17022024	08:53:36 a831326b-4a01-4d9e-a925-e508d7104f8e GET -- /subdir/css/styles.css -- undefined 
+ 
+17022024	08:54:11 9c76187d-f513-4e68-8e94-69d720824caa GET -- // -- undefined 
+ 
+17022024	08:54:11 31c9dca4-5633-4919-bbd3-8e6f88621769 GET -- //css/styles.css -- undefined 
+ 
+17022024	08:54:13 067b76f8-6c5c-49a9-903f-c921d31a9c43 GET -- / -- undefined 
+ 
+17022024	08:54:17 3dc17a10-abab-48ac-9093-a93a45f274b7 GET -- /contact -- undefined 
+ 
+17022024	08:54:19 cba788c6-a09c-4577-b6c9-9e345d3aa50d GET -- /contact -- undefined 
+ 
+17022024	08:54:25 8de9dd11-3677-48cb-b575-1a98ebab63d9 GET -- /index -- undefined 
+ 
+17022024	08:54:25 6da5d390-8709-438a-a4ab-8861e56d9907 GET -- /css/styles.css -- undefined 
+ 
+17022024	08:55:08 b75ee7ee-5459-44f9-b55f-715156ce3988 GET -- /index -- undefined 
+ 
+17022024	08:55:08 6844d686-fc2d-4208-829a-58437c9b77ae GET -- /css/styles.css -- undefined 
+ 
+17022024	08:55:10 04e5d201-bad7-49b9-9362-0c7aefd8c461 GET -- / -- undefined 
+ 
+17022024	08:55:14 b16554cf-a142-4bd0-9119-2f00670970ae GET -- /subdir/test -- undefined 
+ 
+17022024	08:55:14 25e692bd-a073-45a0-9258-8eab1eeff4c7 GET -- /subdir/css/styles.css -- undefined 
+ 
+17022024	08:55:16 2a162f06-452c-4e7b-9852-b5a235746711 GET -- /subdir/ -- undefined 
+ 
+17022024	08:55:16 370e4356-a168-402d-9390-f47034f913ad GET -- /subdir/css/styles.css -- undefined 
+ 
+17022024	08:55:26 d611b33a-4fbd-4cf7-b98e-a73407135142 GET -- /root/ -- undefined 
+ 
+17022024	08:55:26 a68d8980-6fed-49b0-b4e0-8e905711a0ef GET -- /root/css/styles.css -- undefined 
+ 
+17022024	08:55:28 03511a58-89ca-41da-938a-dbcdaafc390b GET -- /root/index -- undefined 
+ 
+17022024	08:55:28 c3cd8e4d-75c7-481a-bf4c-361330ac46dd GET -- /root/css/styles.css -- undefined 
+ 
+17022024	08:55:32 05982893-6b8f-4264-926d-3fcd073b8989 GET -- /index -- undefined 
+ 
+17022024	08:55:32 6b5fd4ad-885a-4de2-8e91-435b014a9e9e GET -- /css/styles.css -- undefined 
+ 
+17022024	08:55:35 1da61307-0709-4c3f-b1f0-3801da471796 GET -- /index.html -- undefined 
+ 
+17022024	08:55:35 b9466c0f-28f4-4895-b2a2-5f8264d70ed9 GET -- /css/styles.css -- undefined 
+ 
+17022024	08:55:38 a4ad737f-a4b8-4567-b30d-8b7e5547fc24 GET -- /contact.html -- undefined 
+ 
+17022024	08:55:39 c39a8481-cd3b-41a1-a230-14729dfacabc GET -- /css/styles.css -- undefined 
+ 
+17022024	08:57:10 79677730-4233-4e80-bba9-6daceeafa8b1 GET -- /index -- undefined 
+ 
+17022024	08:57:10 55997410-c748-46e4-87a2-9a8c54a16228 GET -- /css/styles.css -- undefined 
+ 
+17022024	08:58:12 97628175-45c5-4be1-91fa-6e5b4809d919 GET -- /index -- undefined 
+ 
+17022024	08:58:12 e56300bf-83ea-4a45-9c47-9d68eb4b2daf GET -- /css/styles.css -- undefined 
+ 
+17022024	08:58:15 be51c38d-b35b-43a3-91e2-3fc5c3d88371 GET -- /contact -- undefined 
+ 
+17022024	08:58:15 a0254ce9-b9a3-4747-a5ad-a43d01331fa3 GET -- /css/styles.css -- undefined 
+ 
+17022024	08:58:24 ad6be29a-acf4-4528-b502-23565bf893f8 GET -- / -- undefined 
+ 
+17022024	08:58:27 e2595b22-af79-410d-93c4-4edac0ae05c3 GET -- /home -- undefined 
+ 
+17022024	08:58:29 288e7a4d-6ba9-43ab-9cef-704b7244aa05 GET -- /home -- undefined 
+ 
+17022024	08:58:42 1e155670-1344-4732-acd2-a378788e5d9c GET -- /about -- undefined 
+ 
+17022024	08:58:42 b292c51e-8a5a-4cf8-aa16-868de6f52410 GET -- /css/styles.css -- undefined 
+ 
+17022024	08:58:45 62e2f5de-2216-4d49-a26e-95b2c020d2e9 GET -- /contact -- undefined 
+ 
+17022024	08:58:45 c1963386-ce5a-4edf-886a-4afaf18a3e9b GET -- /css/styles.css -- undefined 
+ 
+17022024	08:58:51 87864ef1-8c5a-4bdf-9964-701303c58dcd GET -- /old-page.html -- undefined 
+ 
+17022024	08:58:51 882d5b77-738a-4131-b5d0-c4add6007a11 GET -- /css/styles.css -- undefined 
+ 
+17022024	08:58:59 17dca93e-26e9-4a7b-a112-11970ed3f9b4 GET -- /home -- undefined 
+ 
+17022024	08:59:00 bfc73ab8-a7d3-4e59-ac87-2235b9ffe3e3 GET -- /hello -- undefined 
+ 
+17022024	08:59:07 5c7b3452-be7a-40d4-b19a-e3a23f8e1d5a GET -- / -- undefined 
+ 
+17022024	08:59:35 5f5ec44c-0f47-4ec6-aaa3-9fc636175dff GET -- / -- undefined 
+ 
+17022024	08:59:35 6c6a6a22-38da-4e80-9afc-dce4d8c658e9 GET -- /css/styles.css -- undefined 
+ 
+17022024	08:59:35 c551ae97-7ab6-442c-b9fc-f6a5db4b0ab4 GET -- /image/PEACOCK_Feather.jpeg -- undefined 
+ 
+17022024	09:03:59 6f68880b-8269-44ef-adb8-51d1c8ec1da0 GET -- / -- undefined 
+ 
+17022024	09:03:59 3022636d-f5b0-4efb-b97f-cf9357d53ef3 GET -- /css/styles.css -- undefined 
+ 
+17022024	09:03:59 0028f77d-b2dc-4a3b-998a-58df6166581f GET -- /image/PEACOCK_Feather.jpeg -- undefined 
+ 
+17022024	09:16:16 5bef9b4d-61f3-41a7-ab0d-707d90b5dc63 GET -- /subdir/ -- undefined 
+ 
+17022024	09:16:16 f3ca65dd-0a31-4812-8549-e591cdf8ed36 GET -- /subdir/css/styles.css -- undefined 
+ 
+17022024	09:16:24 12e0d147-f58b-46ee-ad28-6863509951b3 GET -- /employees/ -- undefined 
+ 
+17022024	10:30:27 d4ec06a2-e266-4a43-b8c7-986d0efe0745 GET -- / -- undefined 
+ 
+17022024	10:30:47 0468f6b5-46c6-4eea-a13b-f9aefa7edd92 GET -- /subdir/ -- undefined 
+ 
+17022024	10:30:55 3dc7a74d-b3c4-46dc-a4c9-f1f6c54b5711 GET -- /subdir/test -- undefined 
+ 
+17022024	10:31:06 f137ce45-e750-466a-a9be-fa5ae92297c8 GET -- /subdir/employees -- undefined 
+ 
+17022024	10:31:21 527718f1-0a3b-468b-8868-91511294203e GET -- /employees -- undefined 
+ 
+17022024	10:34:53 8ded7677-4cd7-40d2-9c07-429e614e6782 GET -- /employees -- undefined 
+ 
+17022024	10:35:11 600cc1a0-1a3e-4a19-9ebf-fb698a999ef4 GET -- / -- undefined 
+ 
+17022024	10:35:20 c9870732-86d2-4f1e-b5bf-e4e76f953101 GET -- /employee -- undefined 
+ 
+17022024	10:35:24 6e706ff7-272a-4fa6-ae1a-1ca0a87d043b GET -- /employees -- undefined 
+ 
+17022024	10:36:12 47f5ecd9-967e-48e4-802d-25c2bded2cd7 GET -- /employees/2 -- undefined 
+ 
+17022024	10:36:52 e75fb7d3-403a-4f04-aa0f-bde84ecf60a6 POST -- /employees/2 -- undefined 
+ 
+17022024	10:36:57 5295e928-1de2-41fe-bd46-df259c6fd87c POST -- /employees -- undefined 
+ 
+17022024	11:53:29 f6ba81a8-2e6a-4e1f-885d-0229166b71d5 POST -- /employees -- undefined 
+ 
+17022024	11:53:29 0f511f84-536f-4d80-94fc-d51d0265e93d POST -- /employees -- undefined 
+ 
+17022024	11:53:30 852749eb-c7b0-4dc1-a8a6-db81751f879f POST -- /employees -- undefined 
+ 
+17022024	11:53:31 62d2b94a-9334-4c33-9dda-89f69e639d9d POST -- /employees -- undefined 
+ 
+17022024	11:53:32 9e18e4e4-755a-44f4-8870-bb5c2a7f34ad POST -- /employees -- undefined 
+ 
+17022024	11:53:39 08891314-49d3-479b-a6a3-75ef8f79d0d4 POST -- /employees -- undefined 
+ 
+17022024	11:54:17 2985d140-0287-4689-b693-29d763452b60 GET -- /employees -- undefined 
+ 
+17022024	11:54:42 9e57fa07-4ee6-439b-9132-19969a7ed031 POST -- /employees -- undefined 
+ 
+17022024	11:54:54 a5ceac74-0392-4b2c-a993-8ee2dd081345 POST -- /employees -- undefined 
+ 
+17022024	11:55:52 770010d3-46ad-45ae-be57-a309a2fb08ec GET -- /employees -- undefined 
+ 
+17022024	11:56:07 68946380-feeb-4b25-b2a8-0befd2cd2174 POST -- /employees -- undefined 
+ 
+17022024	11:56:13 b2488db7-b1ba-4e00-8e44-057d768a3c61 POST -- /employees -- undefined 
+ 
+17022024	11:56:26 d108be48-36cd-4041-a036-3162ef57fe4d POST -- /employees -- undefined 
+ 
+17022024	11:56:54 8f2ae939-8b60-46c0-8181-5255d6b52d4e POST -- /employees -- undefined 
+ 
+17022024	11:57:04 93cc6610-d6b5-4720-b699-cb664d826d4a POST -- /employees -- undefined 
+ 
+17022024	11:57:05 78fcedab-cabc-4a61-8878-f8b7d7b433e0 POST -- /employees -- undefined 
+ 
+17022024	11:57:19 89655bbf-9c06-4368-863b-541eb04b2d0d POST -- /employees -- undefined 
+ 
+17022024	11:57:22 77b74039-80b7-4e11-bb36-4b49be8f3fb0 POST -- /employees -- undefined 
+ 
+17022024	11:57:44 5f58404c-8b5c-4f25-ac9c-ee3d71d42e83 POST -- /employees -- undefined 
+ 
+17022024	11:57:46 88f16f5b-4104-4e01-8b05-c055ae281cd5 POST -- /employees -- undefined 
+ 
+17022024	11:57:47 199a4aac-ed9a-497b-b6e2-3ede35ffe30b POST -- /employees -- undefined 
+ 
+17022024	11:57:48 f3962974-107e-4f7c-80f1-9e76d1d304c9 POST -- /employees -- undefined 
+ 
+17022024	11:57:49 cb6b8ce2-7ec3-46a3-87b0-d5551b51cb27 GET -- /employees -- undefined 
+ 
+17022024	11:57:50 cb97628f-ca1f-438c-b6dd-4781fe4a9b3a POST -- /employees -- undefined 
+ 
+17022024	11:58:09 f3e164c2-cee6-4772-aa59-df39fd38466e POST -- /employees -- undefined 
+ 
+17022024	11:58:12 ba18fccf-5d77-4d8b-9087-d9461a69f03e POST -- /employees -- undefined 
+ 
+17022024	11:58:16 a44de6c3-ecd8-44b0-83cc-df6a7f1be433 POST -- /employees -- undefined 
+ 
+17022024	11:58:25 d76b541a-d9af-437d-85d8-79d2da1e89d3 POST -- /employees -- undefined 
+ 
+17022024	12:00:09 43c10c69-0d05-4af0-97f7-bb1178710ba3 DELETE -- /employees/:id -- undefined 
+ 
+17022024	12:00:32 5bd5b75e-3f19-49df-be63-fb21776a7b7d DELETE -- /employees/id -- undefined 
+ 
+17022024	12:00:33 aea49ab2-1a22-4dec-8888-03b9ecdf8119 DELETE -- /employees/id -- undefined 
+ 
+17022024	12:00:33 09f40eed-f58b-488f-9b14-b1d812e6d741 DELETE -- /employees/id -- undefined 
+ 
+17022024	12:00:34 9a54ef6d-55a0-4c76-990e-cf83c533fda6 DELETE -- /employees/id -- undefined 
+ 
+17022024	12:00:49 5561fc2c-3a61-4ad3-a164-d106c284b511 DELETE -- /employees -- undefined 
+ 
+17022024	12:00:56 caf28a12-be40-49db-a95a-f486f14ba29b DELETE -- /employees -- undefined 
+ 
+17022024	12:00:58 b92acfe7-2e23-41ba-b2d3-41180c34c918 DELETE -- /employees -- undefined 
+ 
+17022024	12:01:15 b859171a-c529-4d3b-a891-e03245f8f5c0 DELETE -- /employees -- undefined 
+ 
+17022024	12:01:23 80effdcf-e977-44a8-86a3-f7303e408161 DELETE -- /employees -- undefined 
+ 
+17022024	12:51:43 a9f1c675-fd13-45f3-97ca-ecf6d5f4221b GET -- /employees/ -- undefined 
+ 
+17022024	12:51:45 6726a973-dad1-4417-b08b-b7e1a28055a3 GET -- / -- undefined 
+ 
+17022024	12:51:45 92f70886-45af-4392-a7f6-d3325e960d86 GET -- /css/styles.css -- undefined 
+ 
+17022024	12:51:45 e8b7535d-6cd1-4b89-a10b-3d415e76c749 GET -- /image/PEACOCK_Feather.jpeg -- undefined 
+ 

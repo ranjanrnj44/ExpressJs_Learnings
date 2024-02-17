@@ -1,0 +1,19 @@
+GET http://localhost:3000/employees
+
+###
+POST http://localhost:3000/employees
+Content-Type: application/json
+
+{
+    "name":"max",
+    "age":"2",
+    "place":"Thanda"
+}
+
+###
+DELETE http://localhost:3000/employees
+Content-Type: 'application/json
+
+{
+    "id": 2
+}
